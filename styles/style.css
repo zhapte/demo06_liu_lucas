@@ -1,1 +1,29 @@
+.bg-info {
+    background-color: #A7E8BD !important; 
+}
 
+.navbar-light .navbar-brand, .navbar-light .navbar-nav .nav-link {
+    color: #FFD972;            
+}
+
+.btn-info {
+    color: #f2fbf2;            
+    background-color: #FCBCB8;
+    border-color: #EFA7A7;   
+}
+
+.btn-primary {
+    color: #f2fbf2;           
+    font-size: 150%;
+    background-color: #FFD972; 
+    border-color: #FCBCB8;     
+    border-width: thick;
+}
+
+body {
+    background-color: #C7EAE4; /* Lightest shade for body background to follow the 60% rule */
+}
+.navbar-brand{
+    font-family: 'Caveat', cursive; /*change the font name for what you have*/
+    font-size: 2.25rem;
+}
